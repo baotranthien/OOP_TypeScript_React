@@ -1,0 +1,43 @@
+{
+  "name": "tranthienbao_23690781_week2",
+  "version": "1.0.0",
+  "description": "Week 2 - Asynchronous TypeScript Exercises",
+  "scripts": {
+    "build": "tsc",
+    "bai1": "tsx src/week2/bai1.ts",
+    "bai2": "tsx src/week2/bai2.ts",
+    "bai3": "tsx src/week2/bai3.ts",
+    "bai4": "tsx src/week2/bai4.ts",
+    "bai5": "tsx src/week2/bai5.ts",
+    "bai6": "tsx src/week2/bai6.ts",
+    "bai7": "tsx src/week2/bai7.ts",
+    "bai8": "tsx src/week2/bai8.ts",
+    "bai9": "tsx src/week2/bai9.ts",
+    "bai10": "tsx src/week2/bai10.ts",
+    "bai11": "tsx src/week2/bai11.ts",
+    "bai12": "tsx src/week2/bai12.ts",
+    "bai13": "tsx src/week2/bai13.ts",
+    "bai14": "tsx src/week2/bai14.ts",
+    "bai15": "tsx src/week2/bai15.ts",
+    "bai16": "tsx src/week2/bai16.ts",
+    "bai17": "tsx src/week2/bai17.ts",
+    "bai18": "tsx src/week2/bai18.ts",
+    "bai19": "tsx src/week2/bai19.ts",
+    "bai20": "tsx src/week2/bai20.ts",
+    "bai21": "tsx src/week2/bai21.ts",
+    "bai22": "tsx src/week2/bai22.ts",
+    "bai23": "tsx src/week2/bai23.ts",
+    "bai24": "tsx src/week2/bai24.ts",
+    "bai25": "tsx src/week2/bai25.ts",
+    "bai26": "tsx src/week2/bai26.ts",
+    "bai27": "tsx src/week2/bai27.ts",
+    "bai28": "tsx src/week2/bai28.ts",
+    "bai29": "tsx src/week2/bai29.ts",
+    "bai30": "tsx src/week2/bai30.ts"
+  },
+  "devDependencies": {
+    "@types/node": "^20.0.0",
+    "tsx": "^4.0.0",
+    "typescript": "^5.0.0"
+  }
+}

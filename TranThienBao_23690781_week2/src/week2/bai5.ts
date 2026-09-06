@@ -1,0 +1,11 @@
+export function simulateTask(time: number): Promise<string> {
+  return new Promise<string>((resolve) => {
+    setTimeout(() => {
+      resolve("Task done");
+    }, time);
+  });
+}
+
+simulateTask(1500).then((result) => {
+  console.log(result);
+});

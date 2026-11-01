@@ -1,0 +1,152 @@
+{
+  "categories": [
+    { "id": 1, "name": "Văn học", "emoji": "📚" },
+    { "id": 2, "name": "Kinh tế", "emoji": "📈" },
+    { "id": 3, "name": "Lập trình", "emoji": "💻" },
+    { "id": 4, "name": "Thiếu nhi", "emoji": "🎈" },
+    { "id": 5, "name": "Khoa học", "emoji": "🔬" }
+  ],
+  "books": [
+    {
+      "id": 1,
+      "title": "Nhà Giả Kim",
+      "author": "Paulo Coelho",
+      "price": 79000,
+      "categoryId": 1,
+      "stock": 12,
+      "description": "Tất cả những trải nghiệm trong chuyến phiêu lưu theo đuổi vận mệnh của mình đã giúp Santiago thấu hiểu được ý nghĩa sâu xa nhất của hạnh phúc.",
+      "emoji": "✨",
+      "color": "#F6D365"
+    },
+    {
+      "id": 2,
+      "title": "Đắc Nhân Tâm",
+      "author": "Dale Carnegie",
+      "price": 98000,
+      "categoryId": 2,
+      "stock": 15,
+      "description": "Cuốn sách nghệ thuật thu phục lòng người kinh điển nhất mọi thời đại.",
+      "emoji": "🤝",
+      "color": "#FDA085"
+    },
+    {
+      "id": 3,
+      "title": "Clean Code",
+      "author": "Robert C. Martin",
+      "price": 320000,
+      "categoryId": 3,
+      "stock": 5,
+      "description": "Hướng dẫn thực hành các nguyên tắc thiết kế mã nguồn sạch, dễ đọc và dễ bảo trì.",
+      "emoji": "💻",
+      "color": "#667EEA"
+    },
+    {
+      "id": 4,
+      "title": "React Native in Action",
+      "author": "Nader Dabit",
+      "price": 389000,
+      "categoryId": 3,
+      "stock": 8,
+      "description": "Xây dựng ứng dụng di động đa nền tảng hiện đại với React Native và JavaScript/TypeScript.",
+      "emoji": "📱",
+      "color": "#4FACFE"
+    },
+    {
+      "id": 5,
+      "title": "Dế Mèn Phiêu Lưu Ký",
+      "author": "Tô Hoài",
+      "price": 65000,
+      "categoryId": 4,
+      "stock": 20,
+      "description": "Tác phẩm văn học thiếu nhi kinh điển của Việt Nam về những bài học đường đời đầu tiên.",
+      "emoji": "🦗",
+      "color": "#43E97B"
+    },
+    {
+      "id": 6,
+      "title": "Vũ Trụ Trong Vỏ Hạt Dẻ",
+      "author": "Stephen Hawking",
+      "price": 185000,
+      "categoryId": 5,
+      "stock": 10,
+      "description": "Khám phá những bí mật sâu kín nhất của vũ trụ học hiện đại và thuyết tương đối.",
+      "emoji": "🌌",
+      "color": "#38F9D7"
+    },
+    {
+      "id": 7,
+      "title": "Tội Ác Và Trừng Phạt",
+      "author": "Fyodor Dostoevsky",
+      "price": 155000,
+      "categoryId": 1,
+      "stock": 7,
+      "description": "Kiệt tác văn học Nga phản ánh cuộc đấu tranh nội tâm dữ dội về đạo đức và sự chuộc tội.",
+      "emoji": "⚖️",
+      "color": "#FA709A"
+    },
+    {
+      "id": 8,
+      "title": "Kinh Tế Học Hài Hước",
+      "author": "Steven D. Levitt",
+      "price": 145000,
+      "categoryId": 2,
+      "stock": 9,
+      "description": "Khám phá các khía cạnh ẩn giấu phía sau các hiện tượng kinh tế và xã hội thường nhật.",
+      "emoji": "💡",
+      "color": "#FEE140"
+    },
+    {
+      "id": 9,
+      "title": "JavaScript: The Good Parts",
+      "author": "Douglas Crockford",
+      "price": 210000,
+      "categoryId": 3,
+      "stock": 6,
+      "description": "Bóc tách những tinh hoa và loại bỏ những hạt sạn trong ngôn ngữ lập trình phổ biến nhất thế giới.",
+      "emoji": "⚡",
+      "color": "#F355DA"
+    },
+    {
+      "id": 10,
+      "title": "Hoàng Tử Bé",
+      "author": "Antoine de Saint-Exupéry",
+      "price": 75000,
+      "categoryId": 4,
+      "stock": 25,
+      "description": "Câu chuyện ngụ ngôn giàu chất thơ và triết lý nhân sinh dành cho cả trẻ em lẫn người lớn.",
+      "emoji": "🌹",
+      "color": "#A18CD1"
+    },
+    {
+      "id": 11,
+      "title": "Lược Sử Thời Gian",
+      "author": "Stephen Hawking",
+      "price": 135000,
+      "categoryId": 5,
+      "stock": 14,
+      "description": "Hành trình giải thích nguồn gốc và số phận của vũ trụ từ vụ nổ Big Bang đến các lỗ đen.",
+      "emoji": "⏳",
+      "color": "#FBC2EB"
+    },
+    {
+      "id": 12,
+      "title": "Chiến Tranh Tiền Tệ",
+      "author": "Song Hongbing",
+      "price": 168000,
+      "categoryId": 2,
+      "stock": 8,
+      "description": "Góc nhìn sâu sắc về lịch sử các cuộc chiến tiền tệ và sự hình thành hệ thống tài chính quốc tế.",
+      "emoji": "💰",
+      "color": "#30CFD0"
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "name": "Học viên Demo",
+      "email": "demo@bookstore.vn",
+      "phone": "0901234567"
+    }
+  ]
+}
+
